@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Indonesia Basketball League</string>
+    <string name="stapac">W88 News Stapac</string>
+    <string name="stapac_details">W88 News Stapac,
+        adalah klub bola basket profesional Liga Bola Basket Nasional Indonesia (IBL Indonesia) dari kota Jakarta.
+        Klub bola basket ini didirikan pada tahun 1986.
+        Di pentas kompetisi basket tertinggi di Indonesia,
+        sejak 1987, stapac selalu memelihara tradisi masuk putaran final four.
+    </string>
+    <string name="link_aspac">https://www.indosport.com/tag/12183/w88-news-aspac-jakarta</string>
+    <string name="lihat">Read More</string>
+    <string name="share">Share</string>
+    <string name="todo">TODO</string>
+</resources>
